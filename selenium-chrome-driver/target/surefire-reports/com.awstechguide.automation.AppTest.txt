@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.awstechguide.automation.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.156 s <<< FAILURE! - in com.awstechguide.automation.AppTest
+testURL on testURL(com.awstechguide.automation.AppTest)(com.awstechguide.automation.AppTest)  Time elapsed: 0.028 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.awstechguide.automation.AppTest.testURL(AppTest.java:29)
+
