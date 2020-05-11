@@ -5,7 +5,7 @@
     <classes>
       <class name="com.awstechguide.automation.AppTest">
         <methods>
-          <include name="testURL"/>
+          <include name="testURL2"/>
         </methods>
       </class> <!-- com.awstechguide.automation.AppTest -->
     </classes>
