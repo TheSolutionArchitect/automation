@@ -30,6 +30,7 @@ public class AppTest
 		   driver.navigate().to(URL2);
 		   List<WebElement> el= driver.findElements(By.xpath("//*[text()[contains(.,'AWS Tech')]]"));
 		   System.out.println("No of existance: "+el.size());
+		   driver.findElements(By.partialLinkText("Tech"));
 	   }
 	
 	
